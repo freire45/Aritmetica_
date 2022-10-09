@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\1\Github\Aritmetica_\.git\.metadata\.plugins\org.eclipse.jdt.core
+1393261597.index
+1289320443.index
